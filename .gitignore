@@ -37,3 +37,13 @@ Thumbs.db
 *.zip
 *.tar
 *.gz
+
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/plugins/
+wp-content/cache/
+wp-content/upgrade/
+wp-config.php
+.htaccess
+*.log
